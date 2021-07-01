@@ -1,0 +1,24 @@
+{
+  "name": "Demo Squrrel #2 - Beta",
+  "external_link": "https://opensea.io/",
+  "description": "Demo Squirell nft set",
+  "image": "ipfs://QmYgeDqzyaxvmeRraZNw1doM6C8Thyv1enhNXR59UjLBKY",
+  "attributes": [
+    {
+      "trait_type": "Arrow",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Black And White Forest"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "Normal Bluish"
+    },
+    {
+      "trait_type": "Squirrel",
+      "value": "Dark Knight"
+    }
+  ]
+}

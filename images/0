@@ -1,0 +1,24 @@
+{
+  "name": "Demo Squrrel #1 - A",
+  "external_link": "https://opensea.io/",
+  "description": "Demo Squirell nft set",
+  "image": "ipfs://QmXZBjSD6z5yAMDdeCuVZtsrPUfuSyb6QQw6Ao9Cj6rQd8",
+  "attributes": [
+    {
+      "trait_type": "Arrow",
+      "value": "Turq"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Bluish Violetissimo"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "Distorted"
+    },
+    {
+      "trait_type": "Squirrel",
+      "value": "Clown"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Demo Squrrel #3 - C",
+  "external_link": "https://opensea.io/",
+  "description": "Demo Squirell nft set",
+  "image": "ipfs://QmaoWGhmS1AMcuQLmvFtf6U4tPW2pETbWddbjCYPAip7cc",
+  "attributes": [
+    {
+      "trait_type": "Arrow",
+      "value": "Lime Green"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Black And White Forest"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "Normal Bluish"
+    },
+    {
+      "trait_type": "Squirrel",
+      "value": "Sombreros"
+    }
+  ]
+}
