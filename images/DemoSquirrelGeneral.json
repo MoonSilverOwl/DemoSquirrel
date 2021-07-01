@@ -1,7 +1,7 @@
 {
   "name": "Demo Squirrel NFT",
   "description": "Demo Squirrel NFT - first demo nft set",
-  "image": "ipfs://QmQurG9hSrKwwnfavLomsr1n3RDcxs56FmGkLCWevk2Y9n",
+  "image": "https://raw.githubusercontent.com/MoonSilverOwl/DemoSquirrel/main/images/demoUniversalSquirrel.jpg",
   "external_link": "https://opensea.io/",
   "seller_fee_basis_points": 1000,
   "fee_recipient": "0x070247626A5dE0E6890dCD297A4EF145EA33A84c"

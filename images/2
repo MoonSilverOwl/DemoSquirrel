@@ -2,7 +2,7 @@
   "name": "Demo Squrrel #3 - C",
   "external_link": "https://opensea.io/",
   "description": "Demo Squirell nft set",
-  "image": "ipfs://QmaoWGhmS1AMcuQLmvFtf6U4tPW2pETbWddbjCYPAip7cc",
+  "image": "https://raw.githubusercontent.com/MoonSilverOwl/DemoSquirrel/main/images/2",
   "attributes": [
     {
       "trait_type": "Arrow",
