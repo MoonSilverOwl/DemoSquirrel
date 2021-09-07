@@ -1,0 +1,8 @@
+{
+  "name": "Demo Secondling NFT",
+  "description": "Demo Secondling NFT - second demo nft set",
+  "image": "https://raw.githubusercontent.com/MoonSilverOwl/DemoSquirrel/main/secondlings/DSMainImage.jpg",
+  "external_link": "https://opensea.io/",
+  "seller_fee_basis_points": 1000,
+  "fee_recipient": "0x070247626A5dE0E6890dCD297A4EF145EA33A84c"
+}
